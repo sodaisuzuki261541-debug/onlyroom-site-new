@@ -1,1 +1,119 @@
-export default function RealEstateFurnitureLP(){return (<div className='min-h-screen bg-neutral-950 text-white font-sans'> <header className='border-b border-neutral-800 sticky top-0 bg-neutral-950/90 backdrop-blur z-10'><div className='max-w-6xl mx-auto px-6 py-4 flex justify-between items-center'><div className='font-bold text-xl'>Only Room</div><div className='text-sm text-neutral-400'>東京・埼玉対応 / 家具セット販売・設置専門</div></div></header> <section className='max-w-6xl mx-auto px-6 py-20 grid md:grid-cols-2 gap-10 items-center'><div><p className='text-sm tracking-widest text-neutral-400'>PREMIUM MOVE-IN PACKAGE</p><h1 className='text-5xl font-bold leading-tight mt-3'>自分だけの部屋を、<br/>つくる。</h1><p className='mt-4 text-base text-neutral-400'>住まいを、その日から完成形に。</p><p className='mt-4 text-lg text-neutral-300'>ソファ・ベッド・家電・インテリアをまとめてセット販売。お部屋に合わせた提案から搬入・設置まで対応し、その日から整った暮らしを実現します。</p><div className='mt-8 flex flex-wrap gap-4'><button className='px-6 py-3 rounded-2xl bg-white text-black font-semibold'>無料相談する</button><a href='https://line.me' target='_blank' rel='noopener noreferrer' className='px-6 py-3 rounded-2xl bg-green-500 text-white font-semibold inline-block'>LINEで相談する</a><button className='px-6 py-3 rounded-2xl border border-neutral-600'>料金を見る</button></div><div className='mt-6 text-sm text-neutral-400'>LINE相談 / オンライン内見 / 即日対応可</div></div><div className='rounded-3xl overflow-hidden h-96 shadow-2xl'><img src='https://images.unsplash.com/photo-1502672023488-70e25813eb80?auto=format&fit=crop&w=1200&q=80' alt='高級感あるリビング内装' className='w-full h-full object-cover'/></div></section> <section className='max-w-6xl mx-auto px-6 py-12 grid md:grid-cols-3 gap-6'><div className='p-6 rounded-2xl bg-neutral-900'><h3 className='text-xl font-semibold'>家具セット販売</h3><p className='mt-3 text-neutral-400'>1Rからファミリーまで間取りに合わせて必要な家具を一括提案。</p></div><div className='p-6 rounded-2xl bg-neutral-900'><h3 className='text-xl font-semibold'>搬入・設置対応</h3><p className='mt-3 text-neutral-400'>ご希望日に合わせて搬入から組み立て・設置まで対応。</p></div><div className='p-6 rounded-2xl bg-neutral-900'><h3 className='text-xl font-semibold'>部屋別コーデ提案</h3><p className='mt-3 text-neutral-400'>お部屋の広さ・雰囲気に合わせて統一感ある空間を提案。</p></div></section> <section className='max-w-6xl mx-auto px-6 py-16'><h2 className='text-3xl font-bold'>料金プラン</h2><p className='mt-3 text-neutral-400'>ご予算に合わせて柔軟にご提案します。</p><div className='mt-8 grid md:grid-cols-3 gap-6'><div className='p-6 rounded-2xl bg-neutral-900 border border-neutral-800'><h3 className='text-xl font-semibold'>ライトプラン</h3><p className='mt-2 text-4xl font-bold'>¥98,000〜</p><p className='mt-3 text-neutral-400'>単身向け基本家具セット</p></div><div className='p-6 rounded-2xl bg-white text-black border border-neutral-200 scale-105'><h3 className='text-xl font-semibold'>人気プラン</h3><p className='mt-2 text-4xl font-bold'>¥198,000〜</p><p className='mt-3 text-neutral-700'>家具・家電・設置込み</p></div><div className='p-6 rounded-2xl bg-neutral-900 border border-neutral-800'><h3 className='text-xl font-semibold'>プレミアム</h3><p className='mt-2 text-4xl font-bold'>¥398,000〜</p><p className='mt-3 text-neutral-400'>高級家具・トータル監修</p></div></div></section> <section className='max-w-6xl mx-auto px-6 py-16'><h2 className='text-3xl font-bold'>Before / After</h2><p className='mt-3 text-neutral-400'>何もない部屋から、黒で統一された完成空間へ。</p><div className='mt-8 rounded-3xl overflow-hidden bg-neutral-900 border border-neutral-800 shadow-2xl'><div className='grid md:grid-cols-2'><div className='relative'><img src='https://images.unsplash.com/photo-1494526585095-c41746248156?auto=format&fit=crop&w=1400&q=80' alt='入居前の1K空室' className='w-full h-[340px] md:h-[560px] object-cover object-center'/><div className='absolute top-4 left-4 px-3 py-1 bg-black/70 text-white text-sm rounded-lg'>BEFORE</div></div><div className='relative'><img src='https://images.unsplash.com/photo-1502672023488-70e25813eb80?auto=format&fit=crop&w=1400&q=80' alt='黒基調で統一された1Kの部屋' className='w-full h-[340px] md:h-[560px] object-cover object-center brightness-90'/><div className='absolute top-4 left-4 px-3 py-1 bg-black/70 text-white text-sm rounded-lg'>AFTER</div></div></div></div><p className='mt-4 text-sm text-neutral-400 text-center'>何もない1Kの部屋から、黒ベースで統一された理想の空間へ。</p><h2 className='text-3xl font-bold mt-16'>導入事例</h2><div className='mt-8 grid md:grid-cols-3 gap-6'><div className='rounded-2xl overflow-hidden bg-neutral-900'><img src='https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?auto=format&fit=crop&w=800&q=80' alt='単身向け部屋事例' className='h-48 w-full object-cover'/><div className='p-6'>20代単身 / 大宮 / 即入居</div></div><div className='rounded-2xl overflow-hidden bg-neutral-900'><img src='https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?auto=format&fit=crop&w=800&q=80' alt='法人転勤向け部屋事例' className='h-48 w-full object-cover'/><div className='p-6'>法人転勤 / 浦和 / 家電込み</div></div><div className='rounded-2xl overflow-hidden bg-neutral-900'><img src='https://images.unsplash.com/photo-1502672023488-70e25813eb80?auto=format&fit=crop&w=800&q=80' alt='新婚世帯向け部屋事例' className='h-48 w-full object-cover'/><div className='p-6'>新婚世帯 / 都内 / プレミアム仕様</div></div></div></section> <section className='max-w-4xl mx-auto px-6 py-16'><h2 className='text-3xl font-bold'>お問い合わせ</h2><p className='mt-3 text-neutral-300'>代表者：鈴木颯太</p><div className='mt-4 text-sm text-neutral-400 space-y-1'><p>最短30分以内に担当よりご連絡します</p><p>営業電話なし・LINE対応可</p></div><div className='mt-6 grid gap-4'><input className='p-4 rounded-xl bg-neutral-900' placeholder='お名前'/><input className='p-4 rounded-xl bg-neutral-900' placeholder='メールアドレス'/><textarea className='p-4 rounded-xl bg-neutral-900 h-32' placeholder='ご希望エリア・ご予算など'></textarea><div className='grid sm:grid-cols-2 gap-4'><button className='px-6 py-4 rounded-2xl bg-white text-black font-semibold'>無料で相談する</button><a href='https://line.me' target='_blank' rel='noopener noreferrer' className='px-6 py-4 rounded-2xl bg-green-500 text-white font-semibold text-center inline-block'>LINEで相談する</a></div></div></section> <footer className='border-t border-neutral-800'><div className='max-w-6xl mx-auto px-6 py-8 text-sm text-neutral-500'>© Only Room</div></footer> </div>)}
+export default function RealEstateFurnitureLP() {
+  return (
+    <div className="min-h-screen bg-neutral-950 text-white font-sans">
+      
+      {/* Header */}
+      <header className="border-b border-neutral-800 sticky top-0 bg-neutral-950/90 backdrop-blur z-10">
+        <div className="max-w-6xl mx-auto px-6 py-4 flex justify-between items-center">
+          <div className="font-bold text-xl">Only Room</div>
+          <div className="text-sm text-neutral-400">
+            東京・埼玉 / 家具付き部屋をワンストップ提供
+          </div>
+        </div>
+      </header>
+
+      {/* Hero */}
+      <section className="max-w-6xl mx-auto px-6 py-24 grid md:grid-cols-2 gap-12 items-center">
+        <div>
+          <p className="text-sm tracking-widest text-neutral-400">
+            MOVE-IN READY SERVICE
+          </p>
+
+          <h1 className="text-5xl font-bold leading-tight mt-3">
+            引っ越したその日から、<br />完成された部屋へ。
+          </h1>
+
+          <p className="mt-5 text-neutral-300 text-lg">
+            家具・家電・インテリアをまとめてコーディネート。搬入・設置まで一括対応し、すぐに暮らせる空間をつくります。
+          </p>
+
+          <div className="mt-8 flex flex-wrap gap-4">
+            <a className="px-6 py-3 rounded-2xl bg-green-500 text-white font-semibold">
+              LINEで無料相談
+            </a>
+            <button className="px-6 py-3 rounded-2xl border border-neutral-600">
+              料金を見る
+            </button>
+          </div>
+
+          <p className="mt-4 text-sm text-neutral-400">
+            最短当日対応 / オンライン相談OK
+          </p>
+        </div>
+
+        <div className="rounded-3xl overflow-hidden h-96 shadow-2xl">
+          <img
+            src="https://images.unsplash.com/photo-1502672023488-70e25813eb80?auto=format&fit=crop&w=1200&q=80"
+            className="w-full h-full object-cover"
+          />
+        </div>
+      </section>
+
+      {/* Features */}
+      <section className="max-w-6xl mx-auto px-6 py-16 grid md:grid-cols-3 gap-6">
+        {[
+          ["家具・家電セット", "生活に必要なものを丸ごとコーディネート"],
+          ["搬入・設置込み", "届いたその日にすぐ生活スタート"],
+          ["部屋別デザイン", "間取り・雰囲気に合わせて提案"]
+        ].map(([t, d]) => (
+          <div key={t} className="p-6 rounded-2xl bg-neutral-900">
+            <h3 className="text-xl font-semibold">{t}</h3>
+            <p className="mt-3 text-neutral-400">{d}</p>
+          </div>
+        ))}
+      </section>
+
+      {/* Pricing */}
+      <section className="max-w-6xl mx-auto px-6 py-16">
+        <h2 className="text-3xl font-bold">料金プラン</h2>
+        <p className="mt-3 text-neutral-400">
+          予算とライフスタイルに合わせて選べます
+        </p>
+
+        <div className="mt-8 grid md:grid-cols-3 gap-6">
+          
+          <div className="p-6 rounded-2xl bg-neutral-900 border border-neutral-800">
+            <h3 className="text-xl font-semibold">ライト</h3>
+            <p className="mt-2 text-3xl font-bold">¥98,000〜</p>
+            <p className="mt-3 text-neutral-400">単身向け最低限セット</p>
+          </div>
+
+          <div className="p-6 rounded-2xl bg-white text-black scale-105">
+            <h3 className="text-xl font-semibold">人気</h3>
+            <p className="mt-2 text-3xl font-bold">¥198,000〜</p>
+            <p className="mt-3 text-neutral-700">家具＋家電＋設置込み</p>
+          </div>
+
+          <div className="p-6 rounded-2xl bg-neutral-900 border border-neutral-800">
+            <h3 className="text-xl font-semibold">プレミアム</h3>
+            <p className="mt-2 text-3xl font-bold">¥398,000〜</p>
+            <p className="mt-3 text-neutral-400">高級コーデ完全監修</p>
+          </div>
+
+        </div>
+      </section>
+
+      {/* CTA */}
+      <section className="max-w-4xl mx-auto px-6 py-20 text-center">
+        <h2 className="text-3xl font-bold">まずは無料で相談</h2>
+        <p className="mt-3 text-neutral-400">
+          30分以内に担当からご連絡します
+        </p>
+
+        <div className="mt-8 flex justify-center gap-4">
+          <a className="px-6 py-4 rounded-2xl bg-green-500 font-semibold">
+            LINEで相談
+          </a>
+        </div>
+      </section>
+
+      {/* Footer */}
+      <footer className="border-t border-neutral-800">
+        <div className="max-w-6xl mx-auto px-6 py-8 text-sm text-neutral-500">
+          © Only Room
+        </div>
+      </footer>
+
+    </div>
+  )
+}
